@@ -1,85 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-<url>
-  <loc>https://vitaminasalimentos.com/</loc>
-  <lastmod>2020-05-10T11:57:26+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaA/</loc>
-  <lastmod>2020-05-10T11:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB/</loc>
-  <lastmod>2020-05-10T11:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaC/</loc>
-  <lastmod>2020-05-10T11:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaD/</loc>
-  <lastmod>2020-05-10T11:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaE/</loc>
-  <lastmod>2020-05-10T11:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaK/</loc>
-  <lastmod>2020-05-10T11:57:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB1/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB3/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB5/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB6/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB7/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB9/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB12/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vitaminasalimentos.com/vitaminaB2/</loc>
-  <lastmod>2020-05-17T18:05:25+00:00</lastmod>
-  <priority>0.8</priority>
-</url>
+    <url>
+        <loc>https://vitaminasalimentos.com/</loc>
+        <lastmod>2020-05-10T11:57:26+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaA/</loc>
+        <lastmod>2020-05-10T11:57:27+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB/</loc>
+        <lastmod>2020-05-10T11:57:27+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaC/</loc>
+        <lastmod>2020-05-10T11:57:27+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaD/</loc>
+        <lastmod>2020-05-10T11:57:27+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaE/</loc>
+        <lastmod>2020-05-10T11:57:27+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaK/</loc>
+        <lastmod>2020-05-10T11:57:27+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB1/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB3/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB5/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB6/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB7/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB9/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB12/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://vitaminasalimentos.com/vitaminaB2/</loc>
+        <lastmod>2020-05-17T18:05:25+00:00</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>
+            https://vitaminasalimentos.com/articulos/1589836096626/
+        </loc>
+        <lastmod>2020-06-10T21:44:31+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>
+            https://vitaminasalimentos.com/articulos/1589843087834/
+        </loc>
+        <lastmod>2020-06-10T21:44:31+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>
+            https://vitaminasalimentos.com/articulos/1589924367420/
+        </loc>
+        <lastmod>2020-06-10T21:44:31+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>
+            https://vitaminasalimentos.com/articulos/1589926586298/
+        </loc>
+        <lastmod>2020-06-10T21:44:31+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>
+            https://vitaminasalimentos.com/articulos/1590101748056/
+        </loc>
+        <lastmod>2020-06-10T21:44:31+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>
+            https://vitaminasalimentos.com/articulos/1590156215608/
+        </loc>
+        <lastmod>2020-06-10T21:44:31+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
 </urlset>
